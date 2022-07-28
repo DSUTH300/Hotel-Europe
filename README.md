@@ -1,2 +1,2 @@
 # Hotel-Europe
-Hotel Europe Data analysis and Visualisation
+Hotel Europe Data analysis and visualisation
