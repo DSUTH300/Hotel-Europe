@@ -7,3 +7,5 @@ Questions we will be solving using the following dataset: -
 Which satisfaction metrics needs improvement?
 
 Which age group should we target to improve overall departure satisfaction?
+
+Does the purpose of travel have a correlation with hotel location?
